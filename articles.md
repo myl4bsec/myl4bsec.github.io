@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: MyL4bSec
 ---
 
 <div id="articles">
