@@ -5,12 +5,6 @@ date:   2018-11-30
 ---
 
 
-{% highlight html %}
-<figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
-{% endhighlight %}
 
 Como vocẽ faz para se manter atualizado no ramo da segurança da informação ?
 
