@@ -6,9 +6,9 @@ date:   2018-11-30
 
 
 
-Como vocẽ faz para se manter atualizado no ramo da segurança da informação ?
+Como você faz para se manter atualizado no ramo da segurança da informação ?
 
-Hoje estarei listando alguns sites assencias, e que eu uso para me manter informado no ramo da Segurança da informação. 
+Hoje estarei listando alguns sites assências, e que eu uso para me manter informado no ramo da Segurança da informação. 
 
 
 
